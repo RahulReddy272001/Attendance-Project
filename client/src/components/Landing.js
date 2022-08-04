@@ -13,8 +13,7 @@ const Landing = ({ register: { isAuthenticated }, user }) => {
         <div className="landing-inner">
           <h1 className="x-large">Attendance Management System</h1>
           <p className="lead">
-            Create a developer profile/portfolio, share posts and get help from
-            other developers
+            Student Teacher login Crud app
           </p>
           <div className="buttons">
             <Link to="/teacher-login" className="btn btn-primary">
